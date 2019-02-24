@@ -1,0 +1,33 @@
+# Welcome to Agency Jekyll Theme!
+
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+
+title: Claire's Cleaning Co.
+email: claire@pershorecleaners.com
+tel: 7395810791
+description: > # this means to ignore newlines until "author:"
+  Pershore based cleaners covering Pershore, Worcester, Evesham and surrounding villages.
+author: James Donoghue
+keyword: pershore cleaner, evesham cleaner, worcester cleaner, end of tenancy cleans, worcestershire cleaner, warwickshire cleaner
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  laklau
+
+# Build settings
+
+markdown: kramdown
+
+#theme: agency-jekyll-theme #The "agency-jekyll-theme" is not supported by GitHub Pages. 
+
+gems:
+  - jekyll-feed
+exclude:
+  - agency-jekyll-theme.gemspec
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png

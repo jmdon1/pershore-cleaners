@@ -1,0 +1,11 @@
+- name: "Regular Service"
+  icon: "calendar-check-o"
+  description: "Weekly or fortnightly domestic cleaning."
+
+- name: "End of Tenancy"
+  icon: "bed"
+  description: "One-off end of tenancy deep cleans."
+
+- name: "Apartment Cleans"
+  icon: "building"
+  description: "Regular cleans for serviced apartments on guest checkout."

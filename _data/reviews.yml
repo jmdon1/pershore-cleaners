@@ -1,0 +1,41 @@
+- order: 001
+  rating: "10/10"
+  date: "Febuary 2019"
+  reviewer: "Liz Davis"
+  id: "review01"
+  reviewtext: "I can recommend Claire’s work, hardworking, reliable and trustworthy."
+
+- order: 002
+  rating: "10/10"
+  date: "January 2019"
+  reviewer: "Gareth"
+  id: "review02"
+  reviewtext: "Beautiful, stylish and sparklingly clean apartment."
+
+- order: 003
+  rating: "10/10"
+  date: "March 2018"
+  reviewer: "David"
+  id: "review04"
+  reviewtext: "Great location, very clean and the ideal location for a visit to Worcester."
+
+- order: 004
+  rating: "9.2/10"
+  date: "November 2018"
+  reviewer: "David"
+  id: "review04"
+  reviewtext: "A great place to stay, clean and comfortable and close to everything you need... Nice, clean and comfortable."
+
+- order: 005
+  rating: "9.6/10"
+  date: "November 2018"
+  reviewer: "David"
+  id: "review05"
+  reviewtext: "Very clean, comfortable and convenient location"
+
+- order: 006
+  rating: "10/10"
+  date: "December 2018"
+  reviewer: "Stuart "
+  id: "review06"
+  reviewtext: "Very clean and well presented."
